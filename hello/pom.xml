@@ -50,7 +50,7 @@
     <properties>
         <version.org.wso2.siddhi>3.0.5</version.org.wso2.siddhi>
         <version.org.apache.log4j.wso2>1.2.17.wso2v1</version.org.apache.log4j.wso2>
-        <version.junit>4.10</version.junit>
+        <version.junit>4.13.1</version.junit>
     </properties>
     <build>
         <plugins>
